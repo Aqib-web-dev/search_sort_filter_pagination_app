@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "name": "Ava",
+      "email": "ava@example.com",
+      "phone": "9927661291317137",
+      "address": "US",
+      "id": 1,
+      "status": "Pending"
+    },
+    {
+      "name": "James",
+      "email": "james@example.com",
+      "phone": "9568995969581448",
+      "address": "US",
+      "id": 2,
+      "status": "Pending"
+    },
+    {
+      "name": "James",
+      "email": "james@example.com",
+      "phone": "9624371086317341",
+      "address": "US",
+      "id": 3,
+      "status": "Inactive"
+    },
+    {
+      "name": "Ava",
+      "email": "ava@example.com",
+      "phone": "9521126911835733",
+      "address": "US",
+      "id": 4,
+      "status": "Inactive"
+    },
+    {
+      "name": "Mia",
+      "email": "mia@example.com",
+      "phone": "9576910640648342",
+      "address": "US",
+      "id": 5,
+      "status": "Pending"
+    },
+    {
+      "name": "Ava",
+      "email": "ava@example.com",
+      "phone": "9628038385875731",
+      "address": "US",
+      "id": 6,
+      "status": "Active"
+    },
+    {
+      "name": "Oliver",
+      "email": "oliver@example.com",
+      "phone": "950152342491491",
+      "address": "US",
+      "id": 7,
+      "status": "Pending"
+    },
+    {
+      "name": "Isabella",
+      "email": "isabella@example.com",
+      "phone": "9116150417515604",
+      "address": "US",
+      "id": 8,
+      "status": "Active"
+    },
+    {
+      "name": "Emma",
+      "email": "emma@example.com",
+      "phone": "9654700846611265",
+      "address": "US",
+      "id": 9,
+      "status": "Active"
+    },
+    {
+      "name": "Ava",
+      "email": "ava@example.com",
+      "phone": "9225371189064114",
+      "address": "US",
+      "id": 10,
+      "status": "Pending"
+    },
+    {
+      "name": "Benjamin",
+      "email": "benjamin@example.com",
+      "phone": "9945718717409269",
+      "address": "US",
+      "id": 11,
+      "status": "Active"
+    },
+    {
+      "name": "Isabella",
+      "email": "isabella@example.com",
+      "phone": "9362372829402581",
+      "address": "US",
+      "id": 12,
+      "status": "Pending"
+    },
+    {
+      "name": "Lucas",
+      "email": "lucas@example.com",
+      "phone": "978022867795222",
+      "address": "US",
+      "id": 13,
+      "status": "Pending"
+    },
+    {
+      "name": "Isabella",
+      "email": "isabella@example.com",
+      "phone": "9919541071542834",
+      "address": "US",
+      "id": 14,
+      "status": "Pending"
+    },
+    {
+      "name": "Mia",
+      "email": "mia@example.com",
+      "phone": "961807277163744",
+      "address": "US",
+      "id": 15,
+      "status": "Inactive"
+    },
+    {
+      "name": "Oliver",
+      "email": "oliver@example.com",
+      "phone": "9310374819556422",
+      "address": "US",
+      "id": 16,
+      "status": "Inactive"
+    },
+    {
+      "name": "William",
+      "email": "william@example.com",
+      "phone": "9541663798535768",
+      "address": "US",
+      "id": 17,
+      "status": "Active"
+    },
+    {
+      "name": "Sophia",
+      "email": "sophia@example.com",
+      "phone": "9680932862378719",
+      "address": "US",
+      "id": 18,
+      "status": "Inactive"
+    },
+    {
+      "name": "Mia",
+      "email": "mia@example.com",
+      "phone": "9160556852052238",
+      "address": "US",
+      "id": 19,
+      "status": "Inactive"
+    },
+    {
+      "name": "William",
+      "email": "william@example.com",
+      "phone": "9754213405043323",
+      "address": "US",
+      "id": 20,
+      "status": "Pending"
+    }
+  ]
+}
